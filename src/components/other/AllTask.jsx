@@ -26,10 +26,11 @@ const AllTask = () => {
         </div>
         })}
         </div>
-        
+   
         
     </div>
   )
 }
+
 
 export default AllTask
